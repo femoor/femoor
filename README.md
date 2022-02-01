@@ -12,4 +12,4 @@ I’m looking to collaborate on interface tools between tdm/tdx data and python.
 
 ### Contact
 
-f.uptmooor@grimme.de
+f.uptmoor@grimme.de
